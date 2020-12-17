@@ -1,4 +1,4 @@
-let teamJohnAverage = Math.round((89 + 120 + 103) / 3);
+let teamJohnAverage = Math.round((119 + 120 + 103) / 3);
 let teamMikeAverage = Math.round((116 + 94 + 123) / 3);
 
 if (teamJohnAverage > teamMikeAverage) {
